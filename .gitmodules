@@ -1,0 +1,9 @@
+[submodule "deliver-jokes-service"]
+	path = deliver-jokes-service
+	url = https://github.com/SahanNimeshWeerakoon/deliver-jokes-service.git
+[submodule "moderate-jokes-service"]
+	path = moderate-jokes-service
+	url = https://github.com/SahanNimeshWeerakoon/moderate-jokes-service.git
+[submodule "submit-jokes-service"]
+	path = submit-jokes-service
+	url = https://github.com/SahanNimeshWeerakoon/submit-jokes-service.git
